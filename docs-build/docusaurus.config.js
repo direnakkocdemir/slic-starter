@@ -3,13 +3,17 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
-
+// baseUrl: the name of the repository
+// url: after your githup name .github.io
+// github user or organization that own the repository
+// projectName: the name of the githuo repository
+// please see the link: https://docusaurus.io/docs/deployment
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SLIC Starter',
   tagline: 'SLIC Starter is a complete starter project for production-grade serverless applications on AWS.',
-  url: 'https://github.com/direnakkocdemir/slic-starter/tree/docs-build',
-  baseUrl: '/',
+  url: 'https://direnakkocdemir.github.io',
+  baseUrl: '/slic-starter/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -45,8 +49,8 @@ const config = {
       navbar: {
         title: 'SLIC STARTER',
         logo: {
-          alt: '',
-          src: 'img/fourTheorem-Icon.jpg'
+          alt: ' ',
+          src: 'docusaurus.jpng'
         },
         items: [
           {
