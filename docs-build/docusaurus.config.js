@@ -19,6 +19,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'direnakkocdemir', // Usually your GitHub org/user name.
   projectName: 'slic-starter', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
