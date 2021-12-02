@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmdocs_docusaurus=self.webpackChunkmdocs_docusaurus||[]).push([[551],{8896:function(s){s.exports=JSON.parse('{"allTagsPath":"/slic-starter/blog/tags","slug":"/slic-starter/blog/tags/hola","name":"hola","count":1,"permalink":"/slic-starter/blog/tags/hola"}')}}]);

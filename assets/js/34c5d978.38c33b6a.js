@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmdocs_docusaurus=self.webpackChunkmdocs_docusaurus||[]).push([[787],{967:function(s){s.exports=JSON.parse('{"allTagsPath":"/slic-starter/blog/tags","slug":"/slic-starter/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/slic-starter/blog/tags/docusaurus"}')}}]);

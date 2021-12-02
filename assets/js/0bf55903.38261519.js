@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmdocs_docusaurus=self.webpackChunkmdocs_docusaurus||[]).push([[429],{4793:function(s){s.exports=JSON.parse('{"allTagsPath":"/slic-starter/blog/tags","slug":"/slic-starter/blog/tags/facebook","name":"facebook","count":1,"permalink":"/slic-starter/blog/tags/facebook"}')}}]);
